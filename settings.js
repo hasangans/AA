@@ -40,11 +40,11 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['6285654783528]
+global.owner = ['6285654783538]
 
-global.premium = ['6285654783528]
+global.premium = ['6285654783538]
 
-global.ownernomer = '6285654783528
+global.ownernomer = '6285654783538
 
 global.ownername = '🐦Bang San'
 
